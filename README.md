@@ -23,7 +23,6 @@ A passionate mobile developer known for expertise in Flutter or Android (Java/Ko
 
 ## Let's Connect :coffee:
 <p align="left">
-	<a href="https://github.com/imhemantsharma/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/gilbarbara/logos/blob/master/logos/github-icon.svg" hspace="5" width="40" height="40" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/hemant-sharma-9637ab123" target="_blank" rel="noopener noreferrer"><img src="https://github.com/gilbarbara/logos/blob/master/logos/linkedin-icon.svg" hspace="5" width="40" height="40"  alt="LinkedIn"/></a>
 <a href="https://medium.com/@imhsharma1" target="_blank" rel="noopener noreferrer"><img src="https://github.com/gilbarbara/logos/blob/master/logos/medium-icon.svg" hspace="5" width="40" height="40"  alt="Medium"/></a>
 <a href="mailto:imhsharma1@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/gilbarbara/logos/blob/master/logos/google-gmail.svg" hspace="5" width="40" height="40" alt="Gmail"/></a>
