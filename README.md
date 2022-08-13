@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi, I am Hemant Sharma 👋
 
-<!--
-**imhemantsharma/imhemantsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate mobile developer known for expertise in Flutter or Android (Java/Kotlin).
 
-Here are some ideas to get you started:
+## 🔭 [Portfolio](https://hemant-portfolio-674a8.web.app/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tech Stack ⚡
+<p align="left">
+	<a><img src="https://github.com/gilbarbara/logos/blob/master/logos/flutter.svg" hspace="5" width="40" height="40" alt="Flutter"/></a>
+	<a><img src="https://github.com/gilbarbara/logos/blob/master/logos/android-vertical.svg" hspace="5" width="40" height="40" alt="Android"/></a>
+  <a><img src="https://github.com/gilbarbara/logos/blob/master/logos/create-react-app.svg" hspace="5" width="40" height="40" alt="React JS"/></a>
+  <a><img src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg" hspace="5" width="40" height="40" alt="Core Java"/></a>
+  <a><img src="https://github.com/gilbarbara/logos/blob/master/logos/kotlin.svg" hspace="5" width="40" height="40" alt="Kotlin"/></a>
+  <a><img src="https://github.com/gilbarbara/logos/blob/master/logos/dart.svg" hspace="5" width="40" height="40" alt="Dart"/></a>
+  <a><img src="https://github.com/gilbarbara/logos/blob/master/logos/firebase.svg" hspace="5" width="40" height="40" alt="Firebase"/></a>
+  <a><img src="https://github.com/gilbarbara/logos/blob/master/logos/aws-amplify.svg" hspace="5" width="40" height="40" alt="AWSAmplify"/></a>
+  <a><img src="https://github.com/gilbarbara/logos/blob/master/logos/graphql.svg" hspace="5" width="40" height="40" alt="GraphQL"/></a>
+  <a><img src="https://github.com/gilbarbara/logos/blob/master/logos/git-icon.svg" hspace="5" width="40" height="40" alt="Git"/></a>
+  <a><img src="https://github.com/gilbarbara/logos/blob/master/logos/jira.svg" hspace="5" width="40" height="40" alt="Jira"/></a>
+
+</p>
+
+## Let's Connect :coffee:
+<p align="left">
+	<a href="https://github.com/imhemantsharma/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/gilbarbara/logos/blob/master/logos/github-icon.svg" hspace="5" width="40" height="40" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/hemant-sharma-9637ab123" target="_blank" rel="noopener noreferrer"><img src="https://github.com/gilbarbara/logos/blob/master/logos/linkedin-icon.svg" hspace="5" width="40" height="40"  alt="LinkedIn"/></a>
+<a href="https://medium.com/@imhsharma1" target="_blank" rel="noopener noreferrer"><img src="https://github.com/gilbarbara/logos/blob/master/logos/medium-icon.svg" hspace="5" width="40" height="40"  alt="Medium"/></a>
+<a href="mailto:imhsharma1@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/gilbarbara/logos/blob/master/logos/google-gmail.svg" hspace="5" width="40" height="40" alt="Gmail"/></a>
+</p>
