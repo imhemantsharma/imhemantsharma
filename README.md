@@ -69,30 +69,6 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/hey-hemant) or
 
 ---
 
-## 💼 Experience Highlights
-
-| Role | Company | Duration |
-|------|---------|----------|
-| 🧑‍💻 Senior Software Engineer | Self Employed / Independent Contractor | Jun 2023 – Present |
-| 🏢 Senior Solutions Engineer | Deqode | Apr 2021 – Jan 2024 |
-| 🏢 Senior Solutions Engineer | Divergent Software Labs | Jul 2019 – Apr 2021 |
-| 🏢 Solutions Engineer | MINDIII Systems Pvt. Ltd. | Nov 2017 – Jun 2019 |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imhemantsharma&show_icons=true&theme=tokyonight&hide_border=true" width="47%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imhemantsharma&theme=tokyonight&hide_border=true" width="47%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhemantsharma&layout=compact&theme=tokyonight&hide_border=true" width="47%" alt="Top Languages"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="left">
